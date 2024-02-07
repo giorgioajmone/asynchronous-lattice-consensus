@@ -1,2 +1,2 @@
 # asynchronous-lattice-consensus
-Implementation of weak lattice-based consensus in asynchronous networks
+Implementation of weak lattice consensus in asynchronous networks
